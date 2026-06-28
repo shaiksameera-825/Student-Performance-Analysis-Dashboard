@@ -55,7 +55,7 @@ Interactive Filters:
 - Department
 - Gender
 - Academic Year
-- Example: https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/performance.png
+- Example: https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/Images/performance.png
 ---
 
 
@@ -78,7 +78,7 @@ Key Visuals
 - Department Performance
 - Student Attendance Table
 
-- Example: https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/attendance.png
+- Example: https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/Images/attendance.png
 
 ---
 
@@ -101,7 +101,7 @@ Interactive Filters
 - Gender
 - Class Type
 
-- Example:https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/Enrollment.png
+- Example: https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/Images/Enrollment.png
 
 ---
 
@@ -124,7 +124,7 @@ Visualizations
 - Year-wise Analysis
 - Course-wise Top Performers
 
-- Example:https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/Rankings.png
+- Example: https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/Images/Rankings.png
 
 ---
 
