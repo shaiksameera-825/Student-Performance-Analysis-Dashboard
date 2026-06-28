@@ -55,9 +55,9 @@ Interactive Filters:
 - Department
 - Gender
 - Academic Year
-- 
-Example: https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/performance.png
+- Example: https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/performance.png
 ---
+
 
 ### ✅ 2. Attendance Dashboard
 
