@@ -55,7 +55,7 @@ Interactive Filters:
 - Department
 - Gender
 - Academic Year
-
+Example: https://github.com/shaiksameera-825/Student-Performance-Analysis-Dashboard/blob/main/performance.png
 ---
 
 ### ✅ 2. Attendance Dashboard
@@ -182,12 +182,6 @@ The dashboard helps educational institutions:
 - Improve academic decision-making.
 
 ---
-
-## 📷 Dashboard Preview
-
-> Add screenshots of each dashboard page here.
-
-Example:
 
 ```
 Images/
